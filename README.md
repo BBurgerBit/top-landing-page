@@ -1,5 +1,5 @@
 # landing-page
-In this project I am going to make my first landing page using my newly found CSS + Flexbox knowledge! Hihi. 
+In this project I am going to make my first landing page using my newly found CSS + Flexbox knowledge!
 
 Boy photo by KoolShooters from Pexels
 Dad photo by Nishant Aneja from Pexels
